@@ -28,7 +28,7 @@
     - Inserir tempo de experiência;
   </p>
   <p>
-    - Filtro de habilidades estilo check box (skills, ferramentas, sistemas, etc);
+    - Organizar os dados dos Filtro de habilidades estilo check box (skills, ferramentas, sistemas, etc);
   </p>
   <p>
     - Inserção de palavras-chave para buscas específicas;
