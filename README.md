@@ -16,9 +16,31 @@
   </p>
 </div>
 <div>
+<div>
+  <h3>Exploração de Dados</h3>
+  <p>
+    - O dataset possui 22.004 candidatos com 37 atributos por candidato;
+  </p>
+</div>
+<div>
+  <h3>Sugestões</h3>
+  <p>
+    - Inserir tempo de experiência;
+    - Filtro de habilidades estilo check box (skills, ferramentas, sistemas, etc);
+    - Inserção de palavras-chave para buscas específicas (
+  </p>
+</div>
+<div>
   <h3>Importante</h3>
   <p>
-    O APP WEB está rodando em um localhost, para obter o funcionamento em máquina local basta clonar este projeto do Github, abrir o arquivo APP.py no VScode ou em outro editor de sua preferência e executar no terminal o comando: streamlit run App.py. É necessário importar os pacotes indicados no início do arquivo ou ter o pacote anaconda instalado, assim como o framework Stremlit. Comando para instalar o stremlit: pip install streamlit .
+    O APP WEB está rodando em um localhost, para obter o funcionamento em máquina local basta clonar este projeto do Github, abrir o arquivo APP.py no VScode ou em outro editor de sua preferência e executar no terminal o comando: streamlit run APP.py. É necessário importar os pacotes indicados no início do arquivo ou ter o pacote anaconda instalado, assim como o framework Stremlit. Comando para instalar o stremlit: pip install streamlit .
+  </p>
+</div>
+ <h3>Observações</h3>
+  <p>
+    - 30 candidatos colocaram a idade no campo cidade;
+    - 52 inserções no campo Disponibilidade estavam com duplicidade: "Só posso mor1ar no Rio" - "Só posso morar no Rio";
+    - 160.802 células com dados faltantes;
   </p>
 </div>
 
