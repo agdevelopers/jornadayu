@@ -48,7 +48,7 @@
     - 52 inserções no campo Disponibilidade estavam com duplicidade: "Só posso mor1ar no Rio" - "Só posso morar no Rio";
   </p>
   <p>
-    - 160.802 células com dados faltantes;
+    - 160.835 células com dados faltantes;
   </p>
 </div>
 
