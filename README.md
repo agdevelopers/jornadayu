@@ -17,7 +17,7 @@
 </div>
 <div>
 <div>
-  <h3>Exploração de Dados</h3>
+  <h3>Explorando Dados</h3>
   <p>
     - O dataset possui 22.004 candidatos com 37 atributos por candidato;
   </p>
