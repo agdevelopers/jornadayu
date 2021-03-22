@@ -26,8 +26,12 @@
   <h3>Sugestões</h3>
   <p>
     - Inserir tempo de experiência;
+  </p>
+  <p>
     - Filtro de habilidades estilo check box (skills, ferramentas, sistemas, etc);
-    - Inserção de palavras-chave para buscas específicas (
+  </p>
+  <p>
+    - Inserção de palavras-chave para buscas específicas;
   </p>
 </div>
 <div>
@@ -39,7 +43,11 @@
  <h3>Observações</h3>
   <p>
     - 30 candidatos colocaram a idade no campo cidade;
+  </p>
+  <p>
     - 52 inserções no campo Disponibilidade estavam com duplicidade: "Só posso mor1ar no Rio" - "Só posso morar no Rio";
+  </p>
+  <p>
     - 160.802 células com dados faltantes;
   </p>
 </div>
