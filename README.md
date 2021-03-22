@@ -12,7 +12,7 @@
 <div>
   <h3>Descrição</h3>
   <p>
-    Este projeto consiste em analisar um dataseyt e retirar insights.
+    Este projeto consiste em analisar um dataset e retirar insights.
   </p>
 </div>
 <div>
