@@ -19,7 +19,7 @@
 <div>
   <h3>Explorando Dados</h3>
   <p>
-    - O dataset possui 22.004 candidatos com 37 atributos por candidato;
+    - Este é o link do notebook contendo os gráficos da análise e exploração dos dados: https://colab.research.google.com/drive/1JL3OHePnI1QPBcFqzP6Vh5TJ-VnRnmxI?usp=sharing;
   </p>
 </div>
 <div>
