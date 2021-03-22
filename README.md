@@ -45,7 +45,7 @@
     - 30 candidatos colocaram a idade no campo cidade;
   </p>
   <p>
-    - 52 inserções no campo Disponibilidade estavam com duplicidade: "Só posso mor1ar no Rio" - "Só posso morar no Rio";
+    - duplicidades de dados por erro de digitação, ex.: "Só posso mor1ar no Rio" - "Só posso morar no Rio" ou "São Paulo" - "São Paulo - Capital";
   </p>
   <p>
     - 160.835 células com dados faltantes;
